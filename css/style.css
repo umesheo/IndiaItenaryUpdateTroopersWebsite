@@ -884,6 +884,9 @@ html {
 .travelChinaContainer{
   display:none;
 }
+.travelBhutanContainer{
+  display: none;
+}
 
 .animate{
   position: relative;
@@ -1474,6 +1477,10 @@ background-repeat: no-repeat;
   padding-top:20px;
 }
 
+.travelBhutanContainer{
+  padding-top:20px;
+}
+
 
   .site-section.site-section-sm {
     padding: 4em 0; }
@@ -1502,6 +1509,9 @@ background-repeat: no-repeat;
    }
 
    /*Distance from drop down select menu and popular tour destination title*/
+   .travelBhutanContainer{
+    padding-top:50px;
+   }
   .travelNepalContainer{
     padding-top:50px;
   }
